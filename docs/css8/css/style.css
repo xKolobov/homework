@@ -1,0 +1,8 @@
+.purple-square {
+  position: fixed;
+  bottom: 100px;
+  right: 50px;
+  left: 50%;
+  height: 100px;
+  background-color: purple;
+}
