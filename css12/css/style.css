@@ -1,0 +1,10 @@
+.block {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  transition: border-color 3s 2s;
+}
+
+.block:hover {
+  border-color: red;
+}
