@@ -1,0 +1,32 @@
+.text1 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.text2 {
+    text-decoration: line-through
+}
+
+.text3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.text4 {
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+    text-shadow: 1px 2px 1px rgba(175, 33, 210, 0.362)
+}
+
+.text5 {
+    letter-spacing: 5px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
